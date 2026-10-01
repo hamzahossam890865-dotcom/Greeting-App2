@@ -1,4 +1,4 @@
-import steramlit as st
+import streamlit as st
 st.title("Welcome To The First Website Using Stremlit😊❤️")
 name=st.text_input("Whats Your Name?😁")
 if name:
